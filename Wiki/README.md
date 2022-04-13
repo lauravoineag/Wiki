@@ -1,15 +1,6 @@
 # Wiki
 
-**Table of Contents**
+### C# Fundamentals
+#### Passing Paramaters
 
-[TOCM]
 
-[TOC]
-
-### Learning plan
-#### Read Documentation
-Get good scrub
-#### Katas
-kata...
-
-###End

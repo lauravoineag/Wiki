@@ -12,13 +12,14 @@
 
 Focus on learning fundamentals (language - C#, patterns, HTTP, REST) first. Skills that are transferrable. A lot of the principles that apply in one language are common to others. OOP / design patterns apply across many languages for example.
 
+https://en.wikipedia.org/wiki/Design_Patterns
+
 >   1. Learning to Learn
 >   2. How to google and read documentation
 >   3. Learn to be comfortable with Reading & Reusing Code
 >   4. SDLC (Software Development Life Cycle)
 >   5. Good priciples in place:OOP basic principles, CRUD, SOLID, RESTFUL
 
->   6. Technical Prowess: understands how networks, servers, databases and infrastructure work
 >   7. Valued types vs Reference types. Issues understanding what in memory/call stack.Why we need both of them? When to use which one? Pass by value and pass by reference. Using a reference like a value or vice versa
 >   8. Lamda expressions,
 >   9. JSON
@@ -44,6 +45,7 @@ Focus on learning fundamentals (language - C#, patterns, HTTP, REST) first. Skil
 
 Defer learning about specific frameworks and libraries as long as possible, with ASP.NET as one exception as it's what we use on BrightSafe. Things like WCF, WPF you will probably never need to know so don't waste time on them. I do the same. I invest time on learning about fundamentals and put off learning about a new framework or tool until I need to.
 
+>   6. Technical Prowess: understands how networks, servers, databases and infrastructure work
 >   1. TDD
 >   2. Debugging
 >   3. DB:entity relationship, Mongo, MySQL
@@ -127,8 +129,8 @@ Defer learning about specific frameworks and libraries as long as possible, with
 2. NET eco-system
 `Basic concepts:`
 `NET Framework Class Library … know the major namespaces, what they’re there for, etc`
-`Frameworks: ASP.NET, WF, WPF, WCF, UWP, .NET Core.`
-`Runtimes:NET Framework Runtime, the compiler,   CLR, CoreCLR, Mono`
+`Frameworks: ASP.NET, .NET Core.`
+`Runtimes:NET Framework Runtime, the compiler, CLR, CoreCLR`
 `Difference between managed vs. unmanaged code`
 `AppDomain vs. Process`
 `Package, namespace, assembly (DLL), configuration (.config files)`

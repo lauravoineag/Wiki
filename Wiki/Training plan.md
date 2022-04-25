@@ -2,11 +2,11 @@
 
 ### Language over frameworks
 Focus on learning fundamentals: 
-Learn language - C#, patterns, HTTP, REST first qas these skills are transferrable. A lot of the principles that apply in one language are common across others. OOP / design patterns apply across multiple languages.
+Learn language - C#, patterns, HTTP, REST first qas these skills are transferrable. A lot of principles that apply in one language are common across others. OOP / design patterns apply across multiple languages.
 
 ***Now***
 
-Top 12:
+Top 14:
 >   1. C# Basics for Beginners 
 >   2. C# Intermediate: OOP
 >   3. Good priciples in place:OOP basic principles, CRUD, SOLID, RESTFUL
@@ -19,6 +19,8 @@ Top 12:
 >   10. What is nullable types? How they work and why we need them?
 >   11. HTTP Requests (request, headers, status codes )
 >   12. Learn Design Patterns - What are the possible solution that people use for solving generalized problems. https://en.wikipedia.org/wiki/Design_Patterns
+>   13. TDD
+>   14.  JSON
 
 ***A little later***
 
@@ -27,38 +29,36 @@ Top 12:
 - Languages change very slowly in comparison to frameworks (C# is a language and React is a framework)
 - Frameworks and Third party Libraries allows you to structure/arhitect your code e.g. "How to write controllers" 
 
->   1. TDD
->   2. Lamda expressions
->   3. Debugging
->   4. DB:entity relationship, Mongo, MySQL
->   5. Dependency injection
->   6. Libraries
->   7. Middleware 
->   8. Validation
->   9. Async/await
->   10. LINQ
->   11. Extensions
->   12. O/RMs  
->   13. Cross-Platform Software
->   14. Token
->   15. Docker
->   16. Postman/ swagger
->   17. Delegates and Events
->   18. Exception Handling
->   19. Tips and tricks, key bindings, IDE text/editor
->   20. Wiki (something similar to https://github.com/jwasham/coding-interview-university)
->   21. Reading material to overcome impostor syndrome 
+>   1. Lamda expressions
+>   2. Debugging
+>   3. DB:entity relationship, Mongo, MySQL
+>   4. Dependency injection
+>   5. Libraries
+>   6. Middleware 
+>   7. Validation
+>   8. Async/await
+>   9. LINQ
+>   10. Extensions
+>   11. O/RMs  
+>   12. Cross-Platform Software
+>   13. Token
+>   14. Docker
+>   15. Postman/ swagger
+>   16. Delegates and Events
+>   17. Exception Handling
+>   18. Tips and tricks, key bindings, IDE text/editor
+>   19. Wiki (something similar to https://github.com/jwasham/coding-interview-university)
+>   20. Reading material to overcome impostor syndrome 
 > Next 10:
->   22. Learn to be comfortable with Reading & Reusing Code
->   23. SDLC (Software Development Life Cycle) 
->   24. Technical Prowess: understands how networks -Networking Basics & Operating System , servers, databases and infrastructure work
->   25. JSON
->   26. Receive regular feedback and constructive criticism 
->   27. What is the difference between String and StringBuilder? (After that) What is immutable types?
->   28. Refactoring
->   29. Misunderstanding default values for uninitialized variables
->   30. Entity Framework in Depth
->   31. Data structures and computing fundamentals  
+>   21. Learn to be comfortable with Reading & Reusing Code
+>   22. SDLC (Software Development Life Cycle) 
+>   23. Technical Prowess: understands how networks -Networking Basics & Operating System , servers, databases and infrastructure work
+>   24. Receive regular feedback and constructive criticism 
+>   25. What is the difference between String and StringBuilder? (After that) What is immutable types?
+>   26. Refactoring
+>   27. Misunderstanding default values for uninitialized variables
+>   28. Entity Framework in Depth
+>   29. Data structures and computing fundamentals  
 
 
 ***Latereeer***
@@ -81,13 +81,18 @@ Top 12:
 ***Actions***
 
 > 1. More Katas?
-> 3. Codewars   
-> 2. Problem solving exercises?
-
+> 2. Codewars   
+> 3. Problem solving exercises?
+> 4.  GIT Board -Track Progress
 
 Extras:
  1. Learning to Learn, Reading Documentation & Google
- 
+
+C# Specific Lists 
+> 1. Collections, Lists, Arrays
+> 2. Inheritance 
+> 3. Interface
+
 **Messy Notes**
 
 2. SDLC Software Development Life Cycle  
@@ -124,7 +129,6 @@ Extras:
 2. NET eco-system
 `Basic concepts:`
 `NET Framework Class Library … know the major namespaces, what they’re there for, etc`
-`Frameworks: ASP.NET, WF, WPF, WCF, UWP, .NET Core.`
 `Runtimes:NET Framework Runtime, the compiler,   CLR, CoreCLR, Mono`
 `Difference between managed vs. unmanaged code`
 `AppDomain vs. Process`

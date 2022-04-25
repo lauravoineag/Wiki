@@ -16,14 +16,12 @@ https://en.wikipedia.org/wiki/Design_Patterns
 
 >   1. Learning to Learn
 >   2. How to google and read documentation
->   3. Learn to be comfortable with Reading & Reusing Code
->   4. SDLC (Software Development Life Cycle)
+>   3. Learn to be comfortable with Reading ~& Reusing Code~
 >   5. Good priciples in place:OOP basic principles, CRUD, SOLID, RESTFUL
 
 >   7. Valued types vs Reference types. Issues understanding what in memory/call stack.Why we need both of them? When to use which one? Pass by value and pass by reference. Using a reference like a value or vice versa
 >   8. Lamda expressions,
 >   9. JSON
->   10. Operating System & Networking Basics
 >   11.  Naming of methods, classes, and variables, the use of comments, project files structure, the use & structure of tests
 
 >   11. Receive regular feedback and constructive criticism
@@ -37,24 +35,26 @@ https://en.wikipedia.org/wiki/Design_Patterns
 >   18. Base API
 >   19. Learn Design Patterns - What are the possible solution that people use for solving generalized problems.
 >   20. Problem solving
->   21. Entity Framework in Depth
 >   22. Concepts put together create issues in understanding
 >   23. What is nullable types? How they work and why we need them?
+
+Moved from "A little later"
+
+>   1. TDD
+>   2. Debugging
+>   8. Async/await
+>   9. LINQ
+>   17. Exception Handling
 
 ***A little later***
 
 Defer learning about specific frameworks and libraries as long as possible, with ASP.NET as one exception as it's what we use on BrightSafe. Things like WCF, WPF you will probably never need to know so don't waste time on them. I do the same. I invest time on learning about fundamentals and put off learning about a new framework or tool until I need to.
 
->   6. Technical Prowess: understands how networks, servers, databases and infrastructure work
->   1. TDD
->   2. Debugging
 >   3. DB:entity relationship, Mongo, MySQL
 >   4. Dependency injection
 >   5. Libraries
 >   6. Middleware
 >   7. Validation
->   8. Async/await
->   9. LINQ
 >   10. Extensions
 >   11. O/RMs
 >   12. Cross-Platform Software
@@ -62,11 +62,15 @@ Defer learning about specific frameworks and libraries as long as possible, with
 >   14. Docker
 >   15. Postman/ swagger
 >   16. Delegates and Events
->   17. Exception Handling
 >   18. Tips and tricks, key bindings, IDE text/editor
 >   19. Wiki (something similar to https://github.com/jwasham/coding-interview-university)
 >   20. Reading material to overcome impostor syndrome
 
+Moved from "now"
+>   4. SDLC (Software Development Life Cycle)
+>   6. Technical Prowess: understands how networks, servers, databases and infrastructure work
+>   10. Operating System & Networking Basics
+>   21. Entity Framework in Depth
 
 ***Latereeer***
 
@@ -90,8 +94,6 @@ Defer learning about specific frameworks and libraries as long as possible, with
 > 1. More Katas?
 > 3. Codewars
 > 2. Problem solving exercises?
-
-
 
 **Messy Notes**
 

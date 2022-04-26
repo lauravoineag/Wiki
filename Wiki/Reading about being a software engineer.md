@@ -14,7 +14,7 @@
 
 `A final benefit is the massively increased understanding that comes from the journey. This makes it easier to talk about your program in the future, easier to remember when you are am trying to fix it in production & wasier to write documentation for the team. This makes you a much more valuable member of the team.`
    
-***How to do it:***
+  ***How to do it:***
 | ***First*** | ***Second*** | ***Third*** |
 | ------------| -------------|-------------|
 | `Actually solve the logical problem by working it out on paper and sticky notes.For example, use sticky notes to represent ‘if’ statements and then the subsequent branches in logic which I can then physically move about.`  | `Write clear comments in code which give an overview of what the code is going to be. This is the skeleton of the program.` | `Now you are ready to type the code. By this point you properly understand the solution to the problem and it has been through several iterations.` |

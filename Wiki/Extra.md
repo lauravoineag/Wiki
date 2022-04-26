@@ -15,7 +15,7 @@ https://stackoverflow.com/
 
 
 TO do:
-
+Object Oriented development in c# Deborah Kurata
 C#Language Integrated query (Paul Sheriff)
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr
 https://www.youtube.com/c/Elfocrash/featured

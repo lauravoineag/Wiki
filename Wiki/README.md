@@ -6,7 +6,8 @@
 `Learn language - C#, patterns, HTTP, REST first as these skills are transferrable. A lot of principles that apply in one language are common across others. OOP/ design patterns apply across multiple languages.`
 
 **Learn Now**
-#####Top 18:
+
+**Top 18:**
 >   1. C# Basics for Beginners 
 >   2. C# Intermediate: OOP
 >   3. Good priciples in place: OOP Basic Principles, CRUD, SOLID, RESTFUL

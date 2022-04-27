@@ -62,7 +62,7 @@
 >   9. Implementation of generics, covariance and contravariance
 >   10. Deep understanding of expressions, delegates, events, and lazy evaluation
 >   11. Encryption and Cryptography
->   12. Memory Management- How garbage collection works, need for generation etc.
+>   12. ~~Memory Management:  How garbage collection works, need for generation etc.~~
 >   13. How your code convert to machine language?  
 >   14. What is the difference between String and StringBuilder? (After that) What is immutable types?
 >   15. Misunderstanding default values for uninitialized variables

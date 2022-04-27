@@ -74,7 +74,7 @@
 >   21. Containership, Abstract classes, Virtual functions, Polymorphism, Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
 >   22. Inheritance vs. polymorphism
 
-***Actions***
+**Actions**
 
 > 1. More Katas
 > 2. Codewars   
@@ -82,14 +82,14 @@
 > 4.  GIT Board -Track Progress
 > 5. Working on Tickets 
 
-##Important:
+## Important:
  1. Learning to Learn, Reading Documentation & Google
  2. Receive regular feedback and constructive criticism
  3. Tips and tricks, key bindings, IDE text/editor
  4. Wiki (something similar to https://github.com/jwasham/coding-interview-university
  5. Reading material to overcome impostor syndrome 
 
-##C# Specific:  
+## C# Specific:  
 >   1. Classes & OOP
 >   2. Collections, Lists, Arrays
 >   3. Dictionaries
@@ -103,7 +103,7 @@
 
 
 Links:
-https://agilemanifesto.org/
+https://agilemanifesto.org/ 
 https://www.quora.com/What-should-I-know-as-a-junior-C-developer
 https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples
 https://www.codeproject.com/?cat=3

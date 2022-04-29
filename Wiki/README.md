@@ -15,7 +15,7 @@
     - [ ] 3.Dictionaries
     - [ ] 4.Inheritance
     - [ ] 5.Interface
-    - [ ] 6.n depth Properties and Fields
+    - [ ] 6.In depth Properties and Fields
     - [ ] 7.Interface vs. Abstract class
     - [ ] 8.Static vs Instance variables
     - [ ] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private

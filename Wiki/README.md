@@ -73,16 +73,16 @@
 - [ ] 10.Deep understanding of expressions, delegates, events, and lazy evaluation
 - [ ] 11.Encryption and Cryptography
 - [x] 12.Memory Management:  How garbage collection works, need for generation etc.
->   13. How your code convert to machine language?  
->   14. What is the difference between String and StringBuilder? (After that) What is immutable types?
->   15. Misunderstanding default values for uninitialized variables
->   16. Entity Framework in Depth
->   17.  SDLC (Software Development Life Cycle) 
->   18. Technical Prowess: understands how networks, servers, databases and infrastructure work
->   19. Operating System & Networking Basics
->   20. Entity Framework in Depth
->   21. Containership, Abstract classes, Virtual functions, Polymorphism, Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
->   22. Inheritance vs. polymorphism
+- [ ] 13.How your code convert to machine language?  
+- [ ] 14.What is the difference between String and StringBuilder? (After that) What is immutable types?
+- [ ] 15.Misunderstanding default values for uninitialized variables
+- [ ] 16.Entity Framework in Depth
+- [ ] 17.SDLC (Software Development Life Cycle) 
+- [ ] 18.Technical Prowess: understands how networks, servers, databases and infrastructure work
+- [ ] 19.Operating System & Networking Basics
+- [ ] 20.Entity Framework in Depth
+- [ ] 21.Containership, Abstract classes, Virtual functions, Polymorphism, Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
+- [x] 21.Polymorphism
 
 **Actions**
 

@@ -9,6 +9,7 @@
 
 **Top 18:**
 - [ ] 1.C# Basics for Beginners
+
     - [ ] 1.Classes
     - [ ] 2.Collections, Lists, Arrays
     - [ ] 3.Dictionaries
@@ -19,6 +20,8 @@
     - [ ] 8.Static vs Instance variables
     - [ ] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private
     - [ ] 10.Understanding the difference between Stacks and Queues at a very basic level (FIFO vs FILO)
+  
+
 - [ ] 2.C# Intermediate: OOP
 - [ ] 3.Good priciples in place: OOP Basic Principles, CRUD, SOLID, RESTFUL
 - [ ] 4.Naming of methods, classes, and variables, the use of comments, project files structure, the use & structure of tests 

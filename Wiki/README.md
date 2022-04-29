@@ -130,3 +130,5 @@ https://www.youtube.com/watch?v=UWwNIMHFdW4&t=261s&ab_channel=JesseShowalter
 https://twitter.com/AgileRamsay
 
 https://www.youtube.com/watch?v=OJLfjgVlwDo&t=14s&ab_channel=CareerFoundry
+
+https://www.youtube.com/watch?v=Kt9TiXrwIp4&ab_channel=NickChapsas

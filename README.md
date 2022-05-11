@@ -16,10 +16,11 @@
     - [ ] 4.Inheritance
     - [ ] 5.Interface
     - [ ] 6.In depth Properties and Fields
-    - [ ] 7.Interface vs. Abstract class
-    - [ ] 8.Static vs Instance variables
-    - [ ] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private
+    - [x] 7.Interface vs. Abstract class
+    - [x] 8.Static vs Instance variables
+    - [x] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private
     - [ ] 10.Understanding the difference between Stacks and Queues at a very basic level (FIFO vs FILO)
+    - [x] 11.Agile Manifesto
   
 
 - [ ] 2.C# Intermediate: OOP
@@ -84,7 +85,7 @@
 - [ ] 18.Technical Prowess: understands how networks, servers, databases and infrastructure work
 - [ ] 19.Operating System & Networking Basics
 - [ ] 20.Entity Framework in Depth
-- [ ] 21.Containership, Abstract classes, Virtual functions, Polymorphism, Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
+- [ ] 21.Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
 - [x] 21.Polymorphism
 
 **Actions**
@@ -92,7 +93,7 @@
 > 1. More Katas
 > 2. Codewars   
 > 3. Problem solving exercises
-> 4.  GIT Board -Track Progress
+> 4. GIT Board -Track Progress
 > 5. Working on Tickets 
 
 ### Important:

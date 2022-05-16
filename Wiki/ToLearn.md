@@ -38,6 +38,9 @@ L https://www.youtube.com/watch?v=-3UXq2krhyw
 I  https://www.youtube.com/watch?v=y1JiMGP51NE
 D https://www.youtube.com/watch?v=NnZZMkwI6KI
 
+Domain - Driven Design Fundamentals
+Strategy Design Pattern
+
 #### Done:
 `1.Introduction to the C# 9 Type System By Gill Cleeren`
 

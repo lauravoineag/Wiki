@@ -53,21 +53,34 @@ preference to the shorter timescale.
 - Business people and developers must work
 together daily throughout the project.
 
-`By putting them together on a daily basis they get used to each other and they develop a common understanding of the goal of the project.
-`
+`By putting them together on a daily basis they get used to each other and they develop a common understanding of the goal of the project. Through Standups, Kick offs, retros developers have access to PMs and BAs`
+
 - Build projects around motivated individuals.
 Give them the environment and support they need,
 and trust them to get the job done.
+
+`Eliminate micromanagement, trust the team to self-organise and empower the motivated team members in their solutions.`
 
 - The most efficient and effective method of
 conveying information to and within a development
 team is face-to-face conversation.
 
+`Enhance communication with people and minimise writing documentation in their absence`
+
 - Working software is the primary measure of progress.
+`Working software is Released software. You measure progress when you deliver software.Don't fuss over items in QA.`
+`It doesn't matter how many working hours you've invested in your project, how many bugs you managed to fix, or how many lines of code your team has written.If the result of your work is not the way your customer expects it to be, you are in trouble`
 
 - Agile processes promote sustainable development.
 The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely. 
+
+`Agile processes promote sustainable development. The sponsors, the users ,developers should be able to maintain a constant pace indefinitely.`
+
+`Pressure slips,bad habbits, shortcuts, non-pairing, non-mobbing makes the code unsustainable because people feel under pressure to deliver software quickly. They should not feel against the clock and they should not feel like they have to drop other things. It's about doing the right thing all the time! Coders shouldn't sacrifice code quality if they feel under pressure instead need to find a pace that would work for them even if it means delivering the product later than expected. People can use the Honesty Agile principle - if people are not going to hit the target what is going to happen?`
+
+
+, your goal is to avoid overburden and optimize the way you work so you can frequently deliver to the market and respond to change without requiring personal heroics from your team.`
 
 - Continuous attention to technical excellence
 and good design enhances agility.

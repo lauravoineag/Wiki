@@ -20,7 +20,7 @@
     - [x] 8.Static vs Instance variables
     - [x] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private
     - [ ] 10.Understanding the difference between Stacks and Queues at a very basic level (FIFO vs FILO)
-    - [x] 11.[Agile Manifesto](Wiki\AgileManifesto.md)
+    - [x] 11.[Agile Manifesto](Wiki/AgileManifesto.md)
   
 
 - [ ] 2.C# Intermediate: OOP

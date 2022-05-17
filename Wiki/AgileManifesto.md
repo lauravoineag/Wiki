@@ -31,6 +31,8 @@ ____
 >Constructive conflict is used toward a shared goal. Start working on items in priority order`
 >
 >What is the most important feature/item on the list? Create the minimal most important feature and go back to client for feedback.
+&nbsp;
+&nbsp;
 
 > #### _2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage._
 >Changes must be seen as a possibility and not as another way to delay and overcomplicate the project.
@@ -76,7 +78,7 @@ ____
 > #### _11. The best architectures, requirements, and designs emerge from self-organizing teams._
 >Work with capable people who specialise in their fields (FE, BE, Testing, UX) and who are motivated to get the work done. Basically, let them work out how to proceed the work they want to pick up. Don't impose restrictions in terms of their specific roles as well, let them give opinions about other specialities, eg BackEnd getting involved in BA work.
 
-> #### 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+> #### _12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly._
 >Incorporate retros, BackEnd Chats and add time in the calendar for teams improvements at regular intervals. The team performs at its best when the individuals feel comfortable within the team therefore a good idea is to also add some team building exercises.
 
 ___

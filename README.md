@@ -61,7 +61,8 @@
 - [ ] 11.Postman/ Swagger
 - [ ] 12.Delegates and Events
 - [ ] 13.Learn to be comfortable with Reading & Reusing Code
-- [ ] 14.Data structures and computing fundamentals  
+- [ ] 14.Data structures and computing fundamentals
+- [ ] 15.What is the difference between String and StringBuilder?  
 
 **Learn a little latereeer**
 
@@ -78,15 +79,15 @@
 - [ ] 11.Encryption and Cryptography
 - [x] 12.Memory Management:  How garbage collection works, need for generation etc.
 - [ ] 13.How your code convert to machine language?  
-- [ ] 14.What is the difference between String and StringBuilder? (After that) What is immutable types?
+- [ ] 14.What are immutable types and when to use them.
 - [ ] 15.Misunderstanding default values for uninitialized variables
 - [ ] 16.Entity Framework in Depth
 - [ ] 17.SDLC (Software Development Life Cycle) 
 - [ ] 18.Technical Prowess: understands how networks, servers, databases and infrastructure work
 - [ ] 19.Operating System & Networking Basics
 - [ ] 20.Entity Framework in Depth
-- [ ] 21.Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance`
-- [x] 21.Polymorphism
+- [ ] 21.Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance
+- [x] 22.Polymorphism
 
 **Actions**
 

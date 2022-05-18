@@ -10,40 +10,41 @@
 **Top 18:**
 - [ ] 1.C# Basics for Beginners
 
-    - [ ] 1.Classes
-    - [ ] 2.Collections, Lists, Arrays
-    - [ ] 3.Dictionaries
-    - [ ] 4.Inheritance
-    - [ ] 5.Interface
-    - [ ] 6.In depth Properties and Fields
-    - [x] 7.Interface vs. Abstract class
-    - [x] 8.Static vs Instance variables
-    - [x] 9.Access modifiers: "1 word" modifiers for now : public; protected; internal; private
-    - [ ] 10.Understanding the difference between Stacks and Queues at a very basic level (FIFO vs FILO)
-    - [x] 11.[Agile Manifesto](Wiki/AgileManifesto.md)
+    - [ ] 1.  Classes
+    - [ ] 2.  Collections, Lists, Arrays
+    - [ ] 3.  Dictionaries
+    - [ ] 4.  Inheritance
+    - [ ] 5.  Interface
+    - [ ] 6.  In depth Properties and Fields
+    - [x] 7.  Interface vs. Abstract class
+    - [x] 8.  Static vs Instance variables
+    - [x] 9.  Access modifiers: "1 word" modifiers for now : public; protected; internal; private
+    - [ ] 10. Understanding the difference between Stacks and Queues at a very basic level (FIFO vs FILO)
+    - [x] 11. [Agile Manifesto](Wiki/AgileManifesto.md)
   
 
-- [ ] 2.C# Intermediate: OOP
-- [ ] 3.Good priciples in place: 
+- [ ] 2.  C# Intermediate: OOP
+- [ ] 3.  Good priciples in place: 
 
     - [ ] 1. SOLID
     - [ ] 2. RESTFUL
     - [ ] 3. CRUD 
-- [ ] 4.Naming of methods, classes, and variables, the use of comments, project files structure, the use & structure of tests 
-- [ ] 5.How to use a GIT repo effectively
-- [ ] 6.Base API 
-- [ ] 7.Valued types vs Reference types. Issues understanding what in memory/call stack.Why we need both of them? When to use which one? Pass by value and pass by reference. Using a reference like a value or vice versa
-- [ ] 8.Problem solving
-- [ ] 9.Work on concepts that are put together to create further understanding
-- [ ] 10.What are nullable types? How they work and why we need them?
-- [ ] 11.HTTP Requests (request, headers, status codes )
-- [ ] 12.Learn Design Patterns - What are the possible solution that people use for solving generalized problems. https://en.wikipedia.org/wiki/Design_Patterns
-- [ ] 13.TDD
-- [ ] 14.JSON
-- [ ] 15.Debugging
-- [ ] 16.Async/await
-- [ ] 17.LINQ
-- [ ] 18.Exception Handling
+
+- [ ] 4.  Naming of methods, classes, and variables, the use of comments, project files structure, the use & structure of tests 
+- [ ] 5.  How to use a GIT repo effectively
+- [ ] 6.  Base API 
+- [ ] 7.  Valued types vs Reference types. Issues understanding what in memory/call stack.Why we need both of them? When to use which one? Pass by value and pass by reference. Using a reference like a value or vice versa
+- [ ] 8.  Problem solving
+- [ ] 9.  Work on concepts that are put together to create further understanding
+- [ ] 10. What are nullable types? How they work and why we need them?
+- [ ] 11. HTTP Requests (request, headers, status codes )
+- [ ] 12. Learn Design Patterns - What are the possible solution that people use for solving generalized problems. https://en.wikipedia.org/wiki/Design_Patterns
+- [ ] 13. TDD
+- [ ] 14. JSON
+- [ ] 15. Debugging
+- [ ] 16. Async/await
+- [ ] 17. LINQ
+- [ ] 18. Exception Handling
 
 #### 2. Defer frameworks for as long as possible
 ` - Defer learning about specific frameworks and libraries as long as possible, with ASP.NET (helps Mediator) being the exception.`
@@ -52,46 +53,46 @@
 `- Frameworks and Third party Libraries allows you to structure/arhitect your code e.g. "How to write controllers" `
 
 **Learn a little later**
-- [ ] 1.Refactoring
-- [ ] 2.DB: Document (Mongo) & Relational Databases (MySQL, SQL Server) & O/RMs Entity Framework 
-- [ ] 3.Dependency injection
-- [ ] 4.Libraries
-- [ ] 5.Middleware 
-- [ ] 6.Validation
-- [ ] 7.Extensions
-- [ ] 8.Cross-Platform Software
-- [ ] 9.Token
-- [ ] 10.Docker
-- [ ] 11.Postman/ Swagger
-- [ ] 12.Delegates and Events
-- [ ] 13.Learn to be comfortable with Reading & Reusing Code
-- [ ] 14.Data structures and computing fundamentals
-- [ ] 15.What is the difference between String and StringBuilder?  
+- [ ] 1.  Refactoring
+- [ ] 2.  DB: Document (Mongo) & Relational Databases (MySQL, SQL Server) & O/RMs Entity Framework 
+- [ ] 3.  Dependency injection
+- [ ] 4.  Libraries
+- [ ] 5.  Middleware 
+- [ ] 6.  Validation
+- [ ] 7.  Extensions
+- [ ] 8.  Cross-Platform Software
+- [ ] 9.  Token
+- [ ] 10. Docker
+- [ ] 11. Postman/ Swagger
+- [ ] 12. Delegates and Events
+- [ ] 13. Learn to be comfortable with Reading & Reusing Code
+- [ ] 14. Data structures and computing fundamentals
+- [ ] 15. What is the difference between String and StringBuilder?  
 
 **Learn a little latereeer**
 
-- [ ] 1.C# Advanced 
-- [ ] 2.NET eco-system
-- [ ] 3.Algorithms
-- [ ] 4.Difference between thread and process
-- [ ] 5.Threading and synchronization mechanisms, as well as asynchronous patterns in the language
-- [ ] 6.Difference between exe and dll
-- [ ] 7.Code Reflection and IL Code generation
-- [ ] 8.Interoperability with unmanaged code
-- [ ] 9.Implementation of generics, covariance and contravariance
-- [ ] 10.Deep understanding of expressions, delegates, events, and lazy evaluation
-- [ ] 11.Encryption and Cryptography
-- [x] 12.Memory Management:  How garbage collection works, need for generation etc.
-- [ ] 13.How your code convert to machine language?  
-- [ ] 14.What are immutable types and when to use them.
-- [ ] 15.Misunderstanding default values for uninitialized variables
-- [ ] 16.Entity Framework in Depth
-- [ ] 17.SDLC (Software Development Life Cycle) 
-- [ ] 18.Technical Prowess: understands how networks, servers, databases and infrastructure work
-- [ ] 19.Operating System & Networking Basics
-- [ ] 20.Entity Framework in Depth
-- [ ] 21.Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance
-- [x] 22.Polymorphism
+- [ ] 1.  C# Advanced 
+- [ ] 2.  NET eco-system
+- [ ] 3.  Algorithms
+- [ ] 4.  Difference between thread and process
+- [ ] 5.  Threading and synchronization mechanisms, as well as asynchronous patterns in the language
+- [ ] 6.  Difference between exe and dll
+- [ ] 7.  Code Reflection and IL Code generation
+- [ ] 8.  Interoperability with unmanaged code
+- [ ] 9.  Implementation of generics, covariance and contravariance
+- [ ] 10. Deep understanding of expressions, delegates, events, and lazy evaluation
+- [ ] 11. Encryption and Cryptography
+- [x] 12. Memory Management:  How garbage collection works, need for generation etc.
+- [ ] 13. How your code convert to machine language?  
+- [ ] 14. What are immutable types and when to use them.
+- [ ] 15. Misunderstanding default values for uninitialized variables
+- [ ] 16. Entity Framework in Depth
+- [ ] 17. SDLC (Software Development Life Cycle) 
+- [ ] 18. Technical Prowess: understands how networks, servers, databases and infrastructure work
+- [ ] 19. Operating System & Networking Basics
+- [ ] 20. Entity Framework in Depth
+- [ ] 21. Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance
+- [x] 22. Polymorphism
 
 **Actions**
 

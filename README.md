@@ -24,7 +24,11 @@
   
 
 - [ ] 2.C# Intermediate: OOP
-- [ ] 3.Good priciples in place: OOP Basic Principles, CRUD, SOLID, RESTFUL
+- [ ] 3.Good priciples in place: 
+
+    - [ ] 1. SOLID
+    - [ ] 2. RESTFUL
+    - [ ] 3. CRUD 
 - [ ] 4.Naming of methods, classes, and variables, the use of comments, project files structure, the use & structure of tests 
 - [ ] 5.How to use a GIT repo effectively
 - [ ] 6.Base API 

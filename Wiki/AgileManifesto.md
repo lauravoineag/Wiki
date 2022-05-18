@@ -1,5 +1,5 @@
 # **Agile Manifesto**
-![WaterfallvsAgile](WaterfallvsAgile.jpg.jpg | width=100)
+![WaterfallvsAgile](WaterfallvsAgile.jpg | width=100)
 
 ### The 4 Values
 ___

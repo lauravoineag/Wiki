@@ -1,6 +1,6 @@
 # **Agile Manifesto**
 ![WaterfallvsAgile](WaterfallvsAgile.jpg)
-![WaterfallvsAgile](WaterfallvsAgile.drawio)
+<img src="WaterfallvsAgile.jpg" width="48">
 
 ### The 4 Values
 ___
@@ -37,7 +37,7 @@ ____
 <br/>
 
 > #### _2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage._
->Changes must be seen as a possibility and not as another way to delay and overcomplicate the project.
+>Changes should be seen as a possibility and not as another way to delay and overcomplicate the project.
 > 
 >It doesn't matter how far along developers are in their process the cost/risk is still low to client as per constant feedback cycle.
 
@@ -46,7 +46,7 @@ ____
 > #### _3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale._
 >Get requirements > prioritise requirements > deliver in priority order as soon as you can.
 > 
->Work towards several releases a day for software. By receiving constant feedback the risk is low for the customer not to use the software.)
+>Work towards several releases a day for software. By receiving constant feedback the risk is low for the customer not to use the software.
 
 <br/>
 
@@ -73,11 +73,11 @@ ____
 <br/>
 
 > #### _8. Agile processes promote sustainable development.The sponsors, developers, and users should be able to maintain a constant pace indefinitely._ 
->Agile processes promote sustainable development. The sponsors, the users ,developers should be able to maintain a constant pace indefinitely. 
+>As agile processes promote sustainable development, the sponsors, the users ,developers should be able to maintain a constant pace indefinitely. 
 > 
 >The goal is to avoid overburden and optimize the way you work so you can frequently deliver to the market and respond to change without requiring personal heroics from your team.
 >
->Pressure slips,bad habbits, shortcuts, non-pairing, non-mobbing makes the code unsustainable because people feel under pressure to deliver software quickly. They should not feel against the clock and they should not feel like they have to drop other things. It's about doing the right thing all the time! 
+>Pressure slips,bad habits, shortcuts, non-pairing, non-mobbing makes the code unsustainable because people feel under pressure to deliver software quickly. They should not feel against the clock and they should not feel like they have to drop other things. It's about doing the right thing all the time! 
 > 
 >Coders shouldn't sacrifice code quality if they feel under pressure instead need to find a pace that would work for them even if it means delivering the product later than expected. People can use the Honesty Agile principle - if people are not going to hit the target what is going to happen?
 > 
@@ -89,7 +89,7 @@ ____
 <br/>
 
 > #### _10. Simplicity -- the art of maximizing the amount of work not done -- is essential._
->Stick to the requirements and only implement what you need.  Don't think about what you need to do in the future and don't speculate on the code required. >
+>Stick to the requirements and only implement what you need.  Don't think about what you need to do in the future and don't speculate on the code required.
 > 
 >Write the minimum amount of code required, still high standard code and still following the SOLID principles. By building code in this way we get quick feedback from client and we are maximise the things we won't do.Work on small tickets (quick iterations) and one at a time.
 

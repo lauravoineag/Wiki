@@ -1,11 +1,10 @@
-## Training plan
-
-#### 1. Language over frameworks 
+## <span style="color:#cc99ff"> Training plan</span>
+### <span style="color:pink"> 1. Language over frameworks</span>
 
 `Focus on learning fundamentals:`
 `Learn language - C#, patterns, HTTP, REST first as these skills are transferrable. A lot of principles that apply in one language are common across others. OOP/ design patterns apply across multiple languages.`
 
-**Learn Now**
+**<span style="color:#cc99ff"> Learn NOW</span>**
 
 **Top 18:**
 - [ ] 1.C# Basics for Beginners
@@ -46,13 +45,13 @@
 - [ ] 17. LINQ
 - [ ] 18. Exception Handling
 
-#### 2. Defer frameworks for as long as possible
+#### <span style="color:pink"> 2. Defer frameworks for as long as possible</span>
 ` - Defer learning about specific frameworks and libraries as long as possible, with ASP.NET (helps Mediator) being the exception.`
 `- They change frequently  Things like WCF, WPF,React you will probably never need to know. Invest time on learning about fundamentals and put off learning about a new framework or tool until you need to.`
 `- Languages change very slowly in comparison to frameworks (C# is a language and React is a framework)`
 `- Frameworks and Third party Libraries allows you to structure/arhitect your code e.g. "How to write controllers" `
 
-**Learn a little later**
+**<span style="color:#cc99ff"> Learn a little later</span>**
 - [ ] 1.  Refactoring
 - [ ] 2.  DB: Document (Mongo) & Relational Databases (MySQL, SQL Server) & O/RMs Entity Framework 
 - [ ] 3.  Dependency injection
@@ -69,7 +68,7 @@
 - [ ] 14. Data structures and computing fundamentals
 - [ ] 15. What is the difference between String and StringBuilder?  
 
-**Learn a little latereeer**
+**<span style="color:#cc99ff"> Learn a little Latereeer</span>**
 
 - [ ] 1.  C# Advanced 
 - [ ] 2.  NET eco-system
@@ -94,7 +93,7 @@
 - [ ] 21. Containership, Virtual functions,Static and Runtime Binding, Tatic Base, Override, Overload, Inheritance
 - [x] 22. Polymorphism
 
-**Actions**
+**<span style="color:#cc99ff"> Actions</span>**
 
 > 1. More Katas
 > 2. Codewars   
@@ -102,15 +101,15 @@
 > 4. GIT Board -Track Progress
 > 5. Working on Tickets 
 
-### Important:
+**<span style="color:#cc99ff"> Important</span>**
 
-- [ ] 1.Learning to Learn, Reading Documentation & Google
-- [ ] 2.Receive regular feedback and constructive criticism
-- [ ] 3.Tips and tricks, key bindings, IDE text/editor
-- [ ] 4.Wiki (something similar to https://github.com/jwasham/coding-interview-university
-- [ ] 5.Reading material to overcome impostor syndrome 
+> - [ ] 1.Learning to Learn, Reading Documentation & Google
+> - [ ] 2.Receive regular feedback and constructive criticism
+> - [ ] 3.Tips and tricks, key bindings, IDE text/editor
+> - [ ] 4.Wiki (something similar to https://github.com/jwasham/coding-interview-university
+> - [ ] 5.Reading material to overcome impostor syndrome 
 
-Links:
+**<span style="color:#cc99ff"> Links</span>**
 
 https://agilemanifesto.org/
 

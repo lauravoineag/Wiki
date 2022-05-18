@@ -1,7 +1,9 @@
 ## <span style="color:#cc99ff"> Training plan</span>
 ### <span style="color:pink"> 1. Language over frameworks</span>
 
+
 `Focus on learning fundamentals:`
+
 `Learn language - C#, patterns, HTTP, REST first as these skills are transferrable. A lot of principles that apply in one language are common across others. OOP/ design patterns apply across multiple languages.`
 
 **<span style="color:#cc99ff"> Learn NOW</span>**

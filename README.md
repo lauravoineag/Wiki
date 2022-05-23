@@ -119,6 +119,8 @@ https://www.quora.com/What-should-I-know-as-a-junior-C-developer
 
 https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples
 
+https://www.youtube.com/watch?v=moKG0RQNiqM&ab_channel=AgileMontreal
+
 https://www.codeproject.com/?cat=3
 
 https://www.ideamotive.co/blog/technologies-and-skills-every-dot-net-developer-should-master

@@ -143,3 +143,5 @@ https://twitter.com/AgileRamsay
 https://www.youtube.com/watch?v=OJLfjgVlwDo&t=14s&ab_channel=CareerFoundry
 
 https://www.youtube.com/watch?v=Kt9TiXrwIp4&ab_channel=NickChapsas
+
+https://www.youtube.com/watch?v=moKG0RQNiqM&ab_channel=AgileMontreal 

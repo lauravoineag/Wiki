@@ -18,9 +18,7 @@ Positives- celebration, resulted in improved productivity or generally had a pos
 
 With Positives, the most popular items where assessed with the 5 Why's approach & 5 What's - to determine what behaviors, factors, approaches, anything, causes these items to be a success and aim to do more of this in the day to day working.
 
-Barriers/Obstacles: What you found difficult to do? understand or generally had a negative effect on the performance of the team whilst completing the feature.
-
-With the Challenges, the most popular items where assessed using a 5 Why's approach -to determine the root cause, or causes, and put actions in place to take forward in our future features and day to day working.
+Barriers/Obstacles: What you found difficult to do? understand or generally had a negative effect on the performance of the team whilst completing the feature. The most popular items where assessed using a 5 Why's approach -to determine the root cause, or causes, and put actions in place to take forward in our future features and day to day working.
 
 A bit of both / questions - open space to place items which didn't fit into positives or negatives.
 

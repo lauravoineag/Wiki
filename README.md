@@ -11,11 +11,11 @@
 **Top 18:**
 - [ ] 1.C# Basics for Beginners
 
-    - [ ] 1.  Classes
+    - [x] 1.  Classes
     - [ ] 2.  Collections, Lists, Arrays
     - [ ] 3.  Dictionaries
-    - [ ] 4.  Inheritance
-    - [ ] 5.  Interface
+    - [x] 4.  Inheritance
+    - [x] 5.  Interface
     - [ ] 6.  In depth Properties and Fields
     - [x] 7.  Interface vs. Abstract class
     - [x] 8.  Static vs Instance variables
@@ -27,7 +27,7 @@
 - [ ] 2.  C# Intermediate: OOP
 - [ ] 3.  Good priciples in place: 
 
-    - [ ] 1. SOLID
+    - [x] 1. SOLID
     - [ ] 2. RESTFUL
     - [ ] 3. CRUD 
 
@@ -46,6 +46,7 @@
 - [ ] 16. Async/await
 - [ ] 17. LINQ
 - [ ] 18. Exception Handling
+- [x] 19. Ticket mirro-ing with support
 
 #### <span style="color:pink"> 2. Defer frameworks for as long as possible</span>
 ` - Defer learning about specific frameworks and libraries as long as possible, with ASP.NET (helps Mediator) being the exception.`
